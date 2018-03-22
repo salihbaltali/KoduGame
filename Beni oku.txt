@@ -1,0 +1,8 @@
+Merhaba,
+
+Klasörde bulunan kaynak dosyalarý Kodu Game yazýlýmýný yüklediyseniz çift týklayýp çalýþtýrabilirsiniz.
+Kodu dosyayý artýk kendi ilgili klasörüne yerleþtirecektir. Bundan sonra kendi iç menüsünden kaynak dosyalara eriþebilirsiniz. Çift týklamanýza gerek kalmaz.
+
+Ýlginizden ötürü teþekkür ederim.
+Salih BALTALI
+@suvari58
